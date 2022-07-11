@@ -35,8 +35,9 @@ assetsSummary:
   - ProcessingModule
   - CurrentClampSeries
   - VoltageClampStimulusSeries
-citation: Mei, Nicholas (2022) 20220630_AIBS_Patchseq_human (Version draft) [Data
-  set]. DANDI archive. https://dandiarchive.org/dandiset/000288/draft
+citation: Mei, Nicholas; Chartrand, Thomas; Kalmbach, Brian; Molnar, Gabor; Tamas,
+  Gabor; Lein, Ed (2022) 20220630_AIBS_Patchseq_human (Version draft) [Data set].
+  DANDI archive. https://dandiarchive.org/dandiset/000288/draft
 contributor:
 - affiliation: []
   email: nicholas.mei@alleninstitute.org
@@ -59,6 +60,31 @@ contributor:
   name: Allen Institute for Brain Science
   roleName: []
   schemaKey: Organization
+- affiliation: []
+  includeInCitation: true
+  name: Chartrand, Thomas
+  roleName: []
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Kalmbach, Brian
+  roleName: []
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Molnar, Gabor
+  roleName: []
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Tamas, Gabor
+  roleName: []
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Lein, Ed
+  roleName: []
+  schemaKey: Person
 dateCreated: '2022-06-28T06:19:13.950846+00:00'
 description: U01 Lein PatchSeq upload June 2022
 ethicsApproval: []
