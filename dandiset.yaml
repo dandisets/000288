@@ -22,6 +22,7 @@ assetsSummary:
   - name: current clamp technique
     schemaKey: MeasurementTechniqueType
   numberOfBytes: 1049737334
+  numberOfCells: 36
   numberOfFiles: 36
   numberOfSubjects: 12
   schemaKey: AssetsSummary
@@ -36,7 +37,7 @@ assetsSummary:
   - CurrentClampSeries
   - VoltageClampStimulusSeries
 citation: Mei, Nicholas; Chartrand, Thomas; Kalmbach, Brian; Molnar, Gabor; Tamas,
-  Gabor; Lein, Ed (2022) 20220630_AIBS_Patchseq_human (Version draft) [Data set].
+  Gabor; Lein, Ed (2023) 20220630_AIBS_Patchseq_human (Version draft) [Data set].
   DANDI archive. https://dandiarchive.org/dandiset/000288/draft
 contributor:
 - affiliation: []
