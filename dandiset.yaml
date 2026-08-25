@@ -38,8 +38,8 @@ assetsSummary:
   - CurrentClampSeries
   - VoltageClampStimulusSeries
 citation: Mei, Nicholas; Chartrand, Thomas; Kalmbach, Brian; Molnar, Gabor; Tamas,
-  Gabor; Lein, Ed (2026) 20220630_AIBS_Patchseq_human (Version draft) [Data set].
-  DANDI Archive. https://dandiarchive.org/dandiset/000288/draft
+  Gabor; Lein, Ed (2026) 20220630_AIBS_Patchseq_human (Version 0.260825.1705) [Data
+  set]. DANDI Archive. https://doi.org/10.48324/dandi.000288/0.260825.1705
 contributor:
 - affiliation: []
   email: nicholas.mei@alleninstitute.org
@@ -88,9 +88,11 @@ contributor:
   roleName: []
   schemaKey: Person
 dateCreated: '2022-06-28T06:19:13.950846+00:00'
+datePublished: '2026-08-25T17:05:28.582648+00:00'
 description: U01 Lein PatchSeq upload June 2022
+doi: 10.48324/dandi.000288/0.260825.1705
 ethicsApproval: []
-id: DANDI:000288/draft
+id: DANDI:000288/0.260825.1705
 identifier: DANDI:000288
 keywords:
 - Patch-seq
@@ -98,15 +100,27 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000288/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000288/0.260825.1705/assets.yaml
 name: 20220630_AIBS_Patchseq_human
 protocol:
 - https://www.protocols.io/view/patch-seq-recording-and-extraction-bepyjdpw
+publishedBy:
+  endDate: '2026-08-25T17:05:28.582648+00:00'
+  id: urn:uuid:75d0f446-1eb6-4136-ad83-4ea7399a0b9d
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-08-25T17:05:28.582648+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:7d794a3a-fe37-43fe-a75a-f1bda354e653
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.3
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000288/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000288/0.260825.1705
+version: 0.260825.1705
 wasGeneratedBy: []
