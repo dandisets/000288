@@ -37,16 +37,14 @@ assetsSummary:
   - ProcessingModule
   - CurrentClampSeries
   - VoltageClampStimulusSeries
-citation: Mei, Nicholas; Chartrand, Thomas; Kalmbach, Brian; Molnar, Gabor; Tamas,
-  Gabor; Lein, Ed (2026) 20220630_AIBS_Patchseq_human (Version draft) [Data set].
-  DANDI Archive. https://dandiarchive.org/dandiset/000288/draft
+citation: Chartrand, Thomas; Kalmbach, Brian; Molnar, Gabor; Tamas, Gabor; Lein, Ed
+  (2026) 20220630_AIBS_Patchseq_human (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000288/draft
 contributor:
 - affiliation: []
   email: nicholas.mei@alleninstitute.org
-  includeInCitation: true
+  includeInCitation: false
   name: Mei, Nicholas
-  roleName:
-  - dcite:ContactPerson
+  roleName: []
   schemaKey: Person
 - awardNumber: U01MH114812
   contactPoint: []
@@ -63,14 +61,18 @@ contributor:
   roleName: []
   schemaKey: Organization
 - affiliation: []
+  email: tom.chartrand@alleninstitute.org
   includeInCitation: true
   name: Chartrand, Thomas
-  roleName: []
+  roleName:
+  - dcite:ContactPerson
   schemaKey: Person
 - affiliation: []
+  email: briank@alleninstitute.org
   includeInCitation: true
   name: Kalmbach, Brian
-  roleName: []
+  roleName:
+  - dcite:ContactPerson
   schemaKey: Person
 - affiliation: []
   includeInCitation: true
@@ -106,7 +108,6 @@ relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.3
-studyTarget: []
 url: https://dandiarchive.org/dandiset/000288/draft
 version: draft
 wasGeneratedBy: []
